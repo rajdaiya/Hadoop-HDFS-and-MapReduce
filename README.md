@@ -1,5 +1,4 @@
-# Hadoop-HDFS-and-MapReduce
-# Word-Pair Count
+# Hadoop-HDFS-and-MapReduce:Word-Pair Count
 
 The default input key for the TextInput format is the line number. 
 In this homework , the required output is the count of word pairs. 
