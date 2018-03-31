@@ -1,7 +1,7 @@
 # Hadoop-HDFS-and-MapReduce:Word-Pair Count
 
 The default input key for the TextInput format is the line number. 
-In this homework , the required output is the count of word pairs. 
+The required output is the count of word pairs. 
 
 NOTE: punctuation will NOT count; so the words is ‘(1991)’ and ‘1991’are the same. Therefore, you must parse your file: remove all characters not in this set: [a-z, A-Z, 0-9] ; ‘the-cat’ and ‘the cat’ should be counted as the same pair.     
 
